@@ -3,7 +3,7 @@ from telebot import types
 import random
 #import sqlite3
 
-bot = telebot.TeleBot('8854225557:AAF5G7M2JVH6d2ZzENUDd6yRAYGybPaHGw4')
+
 
 #Keyboard-кнопки Такие кнопки можно увидеть в большом количестве ботов,
 # таких как Дайвинчик и тому подобные. Пишутся они довольно просто,
